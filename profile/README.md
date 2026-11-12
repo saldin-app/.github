@@ -1,4 +1,4 @@
-<p align="center"><img src="https://saldin.app.br/images/saldin-connector-icon.png" width="96" height="96" alt="Saldin"></p>
+<p align="center"><img src="saldin.png" width="96" height="96" alt="Saldin"></p>
 
 <h1 align="center">Saldin</h1>
 
